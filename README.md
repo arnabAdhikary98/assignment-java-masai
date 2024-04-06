@@ -4,3 +4,4 @@
 - Created a Function to check if a char is lowerCase or not.
 - Created a function to print Non-Primes from 2 to a given limit.
 - Created a function to print Primes from 2 to a given limit.
+- Created a function to check if a number is prime or not.
