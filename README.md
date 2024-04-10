@@ -10,3 +10,4 @@
 - Created a function which returns the updated price of the products after calculating the given discount and stock value.
 - Used .filter() HOF to filter out a array of objects.
 - Used Hire Order Function like .map(), .filter() and .reduce().
+- Created function that has the same behavior of inbuilt Array Includes Function.
